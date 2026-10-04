@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-04T10:05:29.897Z",
+  "files": [
+    {
+      "path": "mods/FallingTree-1.18.2-3.5.5.jar",
+      "sha1": "fdae8fd9243f59bb5f31817a36118cf51fe3c1c7",
+      "size": 362119,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/FallingTree-1.18.2-3.5.5.jar"
+    },
+    {
+      "path": "mods/Paladium V1 1.18.2.jar",
+      "sha1": "ab3c8e831c9ff982f369b64f1a65a413da938a32",
+      "size": 5726792,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/Paladium%20V1%201.18.2.jar"
+    },
+    {
+      "path": "mods/StorageDrawers-1.18.2-10.3.0.jar",
+      "sha1": "cd166b32caf943165a82ac6068403b389e58651d",
+      "size": 595245,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/StorageDrawers-1.18.2-10.3.0.jar"
+    },
+    {
+      "path": "mods/Towns-and-Towers-1.18.2-1.9-B.jar",
+      "sha1": "6add9b5b371d6db0b7e377bdb6181bd2b23336ec",
+      "size": 2606263,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/Towns-and-Towers-1.18.2-1.9-B.jar"
+    },
+    {
+      "path": "mods/litematica-fabric-1.18.2-0.11.6.jar",
+      "sha1": "c0ed6f42b55dff9c1b263696cee62fe5ae7f7727",
+      "size": 903843,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/litematica-fabric-1.18.2-0.11.6.jar"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.18.jar",
+      "sha1": "b927dcfa7691f63fe15b459cff5b145c243d42bf",
+      "size": 206587,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/supermartijn642configlib-1.1.8-forge-mc1.18.jar"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.24b-forge-mc1.18.jar",
+      "sha1": "fa0b1a02f65812e5c11451674ca9868c536ef509",
+      "size": 535149,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/supermartijn642corelib-1.1.24b-forge-mc1.18.jar"
+    },
+    {
+      "path": "mods/trashcans-1.1.1-forge-mc1.18.jar",
+      "sha1": "4da9873af7dac5c06322ae782573ea8179d3371a",
+      "size": 166053,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/trashcans-1.1.1-forge-mc1.18.jar"
+    },
+    {
+      "path": "mods/xaerominimap-forge-1.18.2-26.5.0.jar",
+      "sha1": "9646f716b86b94a51a218963ecc767b75232e473",
+      "size": 2172792,
+      "url": "https://raw.githubusercontent.com/raisymoz/aurelion-mods/main/mods-pack/xaerominimap-forge-1.18.2-26.5.0.jar"
+    }
+  ]
+}
